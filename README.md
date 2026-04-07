@@ -1,3 +1,4 @@
-# Db-diagrams
-Db diagrams
-<img width="5220" height="5538" alt="diagram-export-07-04-2026-20_21_32" src="https://github.com/user-attachments/assets/7910a0d2-4024-4e4c-a85c-5f61c19a731f" />
+
+Fitness Influencer Coaching Platform
+
+<img width="6192" height="3501" alt="diagram-export-07-04-2026-20_50_39" src="https://github.com/user-attachments/assets/e861ccfa-44c6-4d4a-b46d-73c61c53bd31" />
